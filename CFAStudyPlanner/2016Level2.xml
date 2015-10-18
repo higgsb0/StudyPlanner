@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Curriculum Date="2016-06-04">
+  <Topics>
+    <Topic name="Ethical and Professional Standards" weighting="12.5">
+      <StudySessions>
+        <StudySession name="Study Session 1. Ethical and Professional Standards">
+          <Readings>
+          <Reading name="Code of Ethics and Standards of Professional Conduct" completed="false" pages="16"/>
+          <Reading name="Guidance of Standards I-VII" completed="false" pages="188"/>
+          <Reading name="CFA Institute Research Objectivity Standards" completed="false" pages="16"/>
+            </Readings>
+        </StudySession>
+        <StudySession name="Study Session 2. Ethical and Professional Standards: Application">
+          <Readings>
+          <Reading name="The Glenarm Company" completed="false" pages="6"/>
+          <Reading name="Preston Partners" completed="false" pages="6"/>
+          <Reading name="Super Selection" completed="false" pages="6"/>
+          <Reading name="Trade Allocation: Fair Dealing and Disclosure" completed="false" pages="4"/>
+          <Reading name="Changing Investment Objectives" completed="false" pages="2"/>
+            </Readings>
+        </StudySession>
+      </StudySessions>
+    </Topic>
+    <Topic name="Quantitative Methods" weighting="7.5">
+      <StudySessions>
+        <StudySession name="Study Session 3. Quantitative Methods for Valuation">
+          <Readings>
+          <Reading name="Reading 9. Correlation and Regression" completed="false" pages="70"/>
+          <Reading name="Reading 10. Multiple Regression and Issues in Regression Analysis" completed="false" pages="82"/>
+          <Reading name="Reading 11. Time-Series Analysis" completed="false" pages="74"/>
+          <Reading name="Reading 12. Excerpt from “Probabilistic Approaches: Scenario Analysis, Decision Trees, and Simulations”" completed="false" pages="16"/>
+            </Readings>
+        </StudySession>
+      </StudySessions>
+    </Topic>
+    <Topic name="Economics" weighting="7.5">
+      <StudySessions>
+        <StudySession name="Study Session 4. Economics for Valuation">
+          <Readings>
+          <Reading name="Reading 13. Currency Exchange Rates: Determination and Forecasting" completed="false" pages="99"/>
+          <Reading name="Reading 14. Economic Growth and the Investment Decision" completed="false" pages="82"/>
+          <Reading name="Reading 15. Economics of Regulation" completed="false" pages="30"/>
+            </Readings>
+        </StudySession>
+      </StudySessions>
+    </Topic>
+    <Topic name="Financial Reporting and Analysis" weighting="17.5">
+      <StudySessions>
+        <StudySession name="Study Session 5. Inventories and Long-lived Assets">
+          <Readings>
+          <Reading name="Reading 16. Inventories: Implications for Financial Statements and Ratios" completed="false" pages="42"/>
+          <Reading name="Reading 17. Long-lived Assets: Implications for Financial Statements and Ratios" completed="false" pages="58"/>
+            </Readings>
+        </StudySession>
+        <StudySession name="Study Session 6. Intercorporate Investments, Post-Employment and Share-Based Compensation, and Multinational Operations">
+          <Readings>
+          <Reading name="Reading 18. Intercorporate Investments" completed="false" pages="64"/>
+          <Reading name="Reading 19. Employee Compensation: Post-Employment and Share-Based" completed="false" pages="44"/>
+          <Reading name="Reading 20. Multinational Operations" completed="false" pages="76"/>
+            </Readings>
+        </StudySession>
+        <StudySession name="Study Session 7. Quality of Financial Reports and Financial Statement Analysis">
+          <Readings>
+          <Reading name="Reading 21. Evaluating Quality of Financial Reports" completed="false" pages="76"/>
+          <Reading name="Reading 22. Integration of Financial Statement Analysis Techniques" completed="false" pages="43"/>
+            </Readings>
+        </StudySession>
+      </StudySessions>
+    </Topic>
+    <Topic name="Corporate Finance" weighting="10">
+      <StudySessions>
+        <StudySession name="Study Session 8. Corporate Finance">
+          <Readings>
+          <Reading name="Reading 23. Capital Budgeting" completed="false" pages="90"/>
+          <Reading name="Reading 24. Capital Structure" completed="false" pages="32"/>
+          <Reading name="Reading 25. Dividends and Share Repurchases: Analysis" completed="false" pages="48"/>
+            </Readings>
+        </StudySession>
+        <StudySession name="Study Session 9. Corporate Finance: Financing and Control Issues">
+          <Readings>
+          <Reading name="Reading 26. Corporate Performance, Governance, and Business Ethics" completed="false" pages="24"/>
+          <Reading name="Reading 27. Corporate Governance" completed="false" pages="52"/>
+          <Reading name="Reading 28. Mergers and Acquisitions" completed="false" pages="53"/>
+            </Readings>
+        </StudySession>
+      </StudySessions>
+    </Topic>
+    <Topic name="Equity Investments" weighting="20">
+      <StudySessions>
+        <StudySession name="Study Session 10. Equity Valuation: Valuation Concepts">
+          <Readings>
+          <Reading name="Reading 29. Equity Valuation: Applications and Processes" completed="false" pages="42"/>
+          <Reading name="Reading 30. Return Concepts" completed="false" pages="54"/>
+            </Readings>
+        </StudySession>
+        <StudySession name="Study Session 11. Equity Valuation: Industry and Company Analysis in a Global Context">
+          <Readings>
+          <Reading name="Reading 31. The Five Competitive Forces that Shape Strategy" completed="false" pages="26"/>
+          <Reading name="Reading 32. Your Strategy Needs a Strategy" completed="false" pages="10"/>
+          <Reading name="Reading 33. Industry and Company Analysis" completed="false" pages="90"/>
+          <Reading name="Reading 34. Discounted Dividend Valuation" completed="false" pages="70"/>
+            </Readings>
+        </StudySession>
+        <StudySession name="Study Session 12. Equity Investments: Valuation Models">
+          <Readings>
+          <Reading name="Reading 35. Free Cash Flow Valuation" completed="false" pages="78"/>
+          <Reading name="Reading 36. Market-Based Valuation: Price and Enterprise Value Multiples" completed="false" pages="98"/>
+          <Reading name="Reading 37. Residual Income Valuation" completed="false" pages="60"/>
+          <Reading name="Reading 38. Private Company Valuation" completed="false" pages="50"/></Readings>
+        </StudySession>
+      </StudySessions>
+    </Topic>
+    <Topic name="Alternative Investments" weighting="7.5">
+      <StudySessions>
+        <StudySession name="Study Session 13. Alternative Investments">
+          <Readings>
+          <Reading name="Reading 39. Private Real Estate Investments" completed="false" pages="74"/>
+          <Reading name="Reading 40. Publicly Traded Real Estate Securities" completed="false" pages="56"/>
+          <Reading name="Reading 41. Private Equity Valuation" completed="false" pages="50"/>
+          <Reading name="Reading 42. A Primer on Commodity Investing" completed="false" pages="30"/>
+            </Readings>
+        </StudySession>
+      </StudySessions>
+    </Topic>
+    <Topic name="Fixed Income" weighting="15">
+      <StudySessions>
+        <StudySession name="Study Session 14. Fixed Income: Valuation Concepts">
+          <Readings>
+          <Reading name="Reading 43. The Term Structure and Interest Rate Dynamics" completed="false" pages="58"/>
+          <Reading name="Reading 44. The Arbitrage-Free Valuation Framework" completed="false" pages="36"/>
+          <Reading name="Reading 45. Valuation and Analysis: Bonds with Embedded Options" completed="false" pages="74"/>
+            </Readings>
+        </StudySession>
+        <StudySession name="Study Session 15. Fixed Income: Topics in Fixed Income Analysis">
+          <Readings>
+          <Reading name="Reading 46. Credit Analysis Models" completed="false" pages="41"/>
+      </Readings>
+        </StudySession>
+      </StudySessions>
+    </Topic>
+    <Topic name="Derivatives" weighting="10">
+      <StudySessions>
+        <StudySession name="Study Session 16. Forwards and Futures">
+          <Readings>
+          <Reading name="Reading 47. Forward Markets and Contracts" completed="false" pages="56"/>
+          <Reading name="Reading 48. Futures Markets and Contracts" completed="false" pages="74"/>
+        </Readings>
+        </StudySession>
+        <StudySession name="Study Session 17. Options, Swaps, and Interest Rate and Credit Derivatives">
+          <Readings>
+          <Reading name="Reading 49. Option Markets and Contracts" completed="false" pages="100"/>
+          <Reading name="Reading 50. Swap Markets and Contracts" completed="false" pages="72"/>
+          <Reading name="Reading 51. Interest Rate Derivative Instruments" completed="false" pages="34"/>
+          <Reading name="Reading 52. Credit Default Swaps" completed="false" pages="32"/>
+            </Readings>
+        </StudySession>
+      </StudySessions>
+    </Topic>
+    <Topic name="Portfolio Management" weighting="7.5">
+      <StudySessions>
+        <StudySession name="Study Session 18. Capital Market Theory and the Portfolio Management Process">
+          <Readings>
+          <Reading name="Reading 53. An Introduction to Multifactor Models" completed="false" pages="34"/>
+          <Reading name="Reading 54. Analysis of Active Portfolio Management" completed="false" pages="58"/>
+          <Reading name="Reading 55. Economics and Investment Markets" completed="false" pages="88"/>
+          <Reading name="Reading 56. The Portfolio Management Process and the Investment Policy Statement" completed="false" pages="24"/>
+            </Readings>
+        </StudySession>
+      </StudySessions>
+    </Topic>
+    </Topics>
+</Curriculum> 
